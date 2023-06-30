@@ -7,4 +7,4 @@
 ### Usage
 - Run SQL Script on your database : CREATE TABLE INC.sql
 - Open PowerBI File
-- Get Data from ODBC Source 
+- Get / Replace ODBC Data source  
