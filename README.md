@@ -10,4 +10,4 @@
 - Get / Replace ODBC Data source  
 
 
-![image](https://github.com/mkonefal2/incident_report_powerbi/assets/88661953/4656ccb7-e759-4e8c-abf4-553cc1c1cbae)
+![Zrzut ekranu 2024-02-06 101547](https://github.com/mkonefal2/incident_report_powerbi/assets/88661953/42302b85-8a24-46a5-9355-072740732f0f)
